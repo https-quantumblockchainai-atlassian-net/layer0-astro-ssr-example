@@ -9,6 +9,7 @@ https://layer0-docs-layer0-astro-ssr-example-default.layer0-limelight.link
 ## Try It Now
 
 [![Deploy with Edgio](https://docs.edg.io/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/edgio-docs/edgio-astro-ssr-example)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0-astro-ssr-example.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0-astro-ssr-example?ref=badge_shield)
 
 ## Getting Started
 
@@ -53,3 +54,7 @@ npm run edgio:deploy
 ```
 
 See [deploying](https://docs.edg.io/guides/deploying) for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0-astro-ssr-example.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0-astro-ssr-example?ref=badge_large)
